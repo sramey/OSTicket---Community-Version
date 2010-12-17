@@ -1,3 +1,11 @@
+============================================================
+= New README.TXT from the Community Version
+============================================================
+Initial readme, empty for now --Shawn
+
+============================================================
+= ORIGINAL README.TXT from Tarball
+============================================================
 Thank you for trying osTicket V1.6 ST (Feb 09,2010).
 
 Version
